@@ -2,3 +2,4 @@ Hello World!
 Test
 Test
 We fixed the bug.
+Added a change.
